@@ -34,4 +34,3 @@ A curated list of my technical certifications across cybersecurity, cloud, Linux
 
 ---
 
-For full details and verification, visit: **[insert main GitHub link here]**
