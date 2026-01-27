@@ -6,31 +6,31 @@ A curated list of my technical certifications across cybersecurity, cloud, Linux
 
 ## 🔐 Cybersecurity
 - **Certified in Cybersecurity — ISC2**  
-  ➤ https://www.credly.com/badges/97983727-4f46-4ddc-9211-e5028d281e47/public_url
+  ➤ [View Certificate](https://www.linkedin.com/in/hugosilvait/overlay/Certifications/944514281/treasury/?profileId=ACoAABDlOHQBCESrs0jUv_bYJ9BkyqavF4diy9Q)
 
 - **Fortinet Certified Fundamentals — Fortinet**  
-  ➤ https://www.linkedin.com/in/hugosilvait/overlay/Certifications/944514281/treasury/?profileId=ACoAABDlOHQBCESrs0jUv_bYJ9BkyqavF4diy9Q
+  ➤ [View Certificate](https://www.credly.com/badges/3342a554-5e10-4776-b0c9-26fc7daea257/public_url)
 
 - **Fortinet Certified Associate — Fortinet**  
-  ➤ https://www.credly.com/badges/a2a5bdb9-30dc-4984-824f-de4df5347fd1/linked_in_profile
+  ➤ [View Certificate](https://www.credly.com/badges/a2a5bdb9-30dc-4984-824f-de4df5347fd1/linked_in_profile)
 
 - **SOC Analyst Learning Path — Let's Defend**  
-  ➤ https://app.letsdefend.io/my-rewards/detail/95461824-9abf-43d0-85e3-fc0c365c1615
+  ➤ [View Certificate](https://app.letsdefend.io/my-rewards/detail/95461824-9abf-43d0-85e3-fc0c365c1615)
 
 ---
 
 ## ☁️ Cloud & Infrastructure
 - **AWS re/Start Graduate — Amazon Web Services**  
-  ➤ https://www.credly.com/badges/b0100d74-6f07-451d-9739-e445e4992426/linked_in_profile
+  ➤ [View Certificate](https://www.credly.com/badges/b0100d74-6f07-451d-9739-e445e4992426/linked_in_profile)
 
 - **Containers & Kubernetes Essentials — IBM**  
-  ➤ https://www.credly.com/badges/3342a554-5e10-4776-b0c9-26fc7daea257/public_url
+  ➤ [View Certificate](https://www.credly.com/badges/97983727-4f46-4ddc-9211-e5028d281e47/public_url)
 
 ---
 
 ## 🐧 Linux
 - **Linux Essentials — Linux Professional Institute**  
-  ➤ https://www.credly.com/badges/8e71bc4f-da58-4c32-9d9d-9d75ba913e73/public_url
+  ➤ [View Certificate](https://www.credly.com/badges/8e71bc4f-da58-4c32-9d9d-9d75ba913e73/public_url)
 
 ---
 
