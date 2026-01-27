@@ -1,0 +1,1 @@
+# 📜 Certificates This repository contains a curated list of my technical certifications across cybersecurity, cloud computing, Linux, and container technologies. It serves as a public record of my learning path and commitment to continuous development in the IT and security domains.
