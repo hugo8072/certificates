@@ -17,6 +17,9 @@ A curated list of my technical certifications across cybersecurity, cloud, Linux
 - **SOC Analyst Learning Path — Let's Defend**  
   ➤ [View Certificate](https://app.letsdefend.io/my-rewards/detail/95461824-9abf-43d0-85e3-fc0c365c1615)
 
+- **Pre Security — TryHackMe**  
+  ➤ [View Certificate](https://tryhackme.com/certificate/THM-40VZKZSJIO)
+
 ---
 
 ## ☁️ Cloud & Infrastructure
@@ -25,6 +28,12 @@ A curated list of my technical certifications across cybersecurity, cloud, Linux
 
 - **Containers & Kubernetes Essentials — IBM**  
   ➤ [View Certificate](https://www.credly.com/badges/97983727-4f46-4ddc-9211-e5028d281e47/public_url)
+
+---
+
+## 📟 Coding & Development 
+- **MongoDB Java Developer Path**  
+  ➤ [View Certificate](https://ti-user-certificates.s3.amazonaws.com/ae62dcd7-abdc-4e90-a570-83eccba49043/15cdf139-e819-40ae-8199-b93c49aa060f-hugo-silva-e38693da-97b6-4f63-9015-8e6f31ff480a-certificate.pdf)
 
 ---
 
