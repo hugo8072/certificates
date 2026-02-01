@@ -6,7 +6,7 @@ A curated list of my technical certificates and certifications across cybersecur
 
 ## 🔐 Cybersecurity
 - **Certified in Cybersecurity — ISC2**  
-  ➤ [View Certificate](https://www.linkedin.com/in/hugosilvait/overlay/Certifications/944514281/treasury/?profileId=ACoAABDlOHQBCESrs0jUv_bYJ9BkyqavF4diy9Q)
+  ➤ [View Certificate](https://www.linkedin.com/in/hugosilvait/details/certifications/1759838901238/single-media-viewer/?profileId=ACoAABDlOHQBCESrs0jUv_bYJ9BkyqavF4diy9Q)
 
 - **Fortinet Certified Fundamentals — Fortinet**  
   ➤ [View Certificate](https://www.credly.com/badges/3342a554-5e10-4776-b0c9-26fc7daea257/public_url)
