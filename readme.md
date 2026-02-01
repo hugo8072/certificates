@@ -1,6 +1,6 @@
 ### 📜 Certificates
 
-A curated list of my technical certificates and certifications across cybersecurity, Linux, cloud, and development.
+A curated list of my technical certificates and certifications across cybersecurity, Linux, cloud, and software development.
 
 ---
 
