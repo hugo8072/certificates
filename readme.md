@@ -1,6 +1,6 @@
 ### 📜 Certificates
 
-A curated list of my technical certifications across cybersecurity, cloud, Linux, and container technologies.
+A curated list of my technical certificates and certifications across cybersecurity, Linux, cloud, and development.
 
 ---
 
@@ -22,6 +22,12 @@ A curated list of my technical certifications across cybersecurity, cloud, Linux
 
 ---
 
+## 🐧 Linux
+- **Linux Essentials — Linux Professional Institute**  
+  ➤ [View Certificate](https://www.credly.com/badges/8e71bc4f-da58-4c32-9d9d-9d75ba913e73/public_url)
+
+---
+
 ## ☁️ Cloud & Infrastructure
 - **AWS re/Start Graduate — Amazon Web Services**  
   ➤ [View Certificate](https://www.credly.com/badges/b0100d74-6f07-451d-9739-e445e4992426/linked_in_profile)
@@ -36,10 +42,3 @@ A curated list of my technical certifications across cybersecurity, cloud, Linux
   ➤ [View Certificate](https://ti-user-certificates.s3.amazonaws.com/ae62dcd7-abdc-4e90-a570-83eccba49043/15cdf139-e819-40ae-8199-b93c49aa060f-hugo-silva-e38693da-97b6-4f63-9015-8e6f31ff480a-certificate.pdf)
 
 ---
-
-## 🐧 Linux
-- **Linux Essentials — Linux Professional Institute**  
-  ➤ [View Certificate](https://www.credly.com/badges/8e71bc4f-da58-4c32-9d9d-9d75ba913e73/public_url)
-
----
-
