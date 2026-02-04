@@ -20,6 +20,10 @@ A curated list of my technical certificates and certifications across cybersecur
 - **Pre Security — TryHackMe**  
   ➤ [View Certificate](https://tryhackme.com/certificate/THM-40VZKZSJIO)
 
+- **Cyber Security 101 — TryHackMe**  
+  ➤ [View Certificate](https://tryhackme.com/certificate/THM-DHSN2GYMX7)
+  
+
 ---
 
 ## 🐧 Linux
